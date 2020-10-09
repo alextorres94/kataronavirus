@@ -1,0 +1,23 @@
+{
+  "name": "kataronavirus",
+  "version": "1.0.0",
+  "description": "My solutions of this kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alextorres94/kataronavirus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alextorres94/kataronavirus/issues"
+  },
+  "homepage": "https://github.com/alextorres94/kataronavirus#readme",
+  "dependencies": {
+    "jest": "^26.5.2"
+  }
+}
